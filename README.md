@@ -78,13 +78,13 @@ Lo primero que hacemos es abrir google web desinger y crear un proyecto de la si
 + modo de animacion: avanzado
 Le damos a aceptar y seleccionamos las imagenes:
 
-![montaña](banner/imagenesbanner/Sin nombre.png)
+![montaña](banner/imagenesBanner/Sin nombre.png)
 
-![cactus](banner/imagenesbanner/cactusVerde.png)
+![cactus](banner/imagenesBanner/cactusVerde.png)
 
-![sol](banner/imagenesbanner/sol.png)
+![sol](banner/imagenesBanner/sol.png)
 
-![boton](banner/imagenesbanner/boton.png)
+![boton](banner/imagenesBanner/boton.png)
 
 Si fuera necesario, cambiamos el tamaño de las imagenes con la herramienta de control de transformacion, despues visualizamos la linea del tiempo y empezamos a mover las imagenes para crear los efectos:
 1. primero haremos que aparezca la montaña desde la izquierda y la duración será de 0 a 1 segundo, a su vez haremos que aparezca un cielo azul desde el segundo 1 hasta el segundo 3.
@@ -96,5 +96,5 @@ Si fuera necesario, cambiamos el tamaño de las imagenes con la herramienta de c
 
 Al final la linea de tiempo queda asi:
 
-![Linea del tiempo](imagenes/imagenesReadMe/banner.jpg)
+![Linea del tiempo](imagenes/imagenesReadMe/banner1.jpg)
 
